@@ -1,1 +1,1 @@
-ACTION=="add", ATTRS{idVendor}=="05ac", ATTRS{idProduct}=="1227", RUN+="/opt/cumbox/checkra1n -c"
+ACTION=="add", ATTRS{idVendor}=="05ac", ATTRS{idProduct}=="1227", RUN+="/opt/rainpi/checkra1n -c"
